@@ -1,0 +1,6 @@
+{
+  "name": "Modi Ji Runner – The Indian Adventure",
+  "description": "A 3D endless runner mobile game featuring a cartoon runner with golden wings, Indian landmarks, power-ups, custom skins, missions, and procedural Web Audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
